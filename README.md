@@ -11,6 +11,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
+Please issue pull request before pushing the changes into the master branch
+
 No data at the moment
 
 ## Deployment
