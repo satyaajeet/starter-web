@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding a line for rebasing example
+more chanegs form myfeature branch too
 
 ## Purpose
 * testing the add feature of git
