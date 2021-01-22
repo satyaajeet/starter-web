@@ -28,3 +28,4 @@ No data at the moment
 * conclude the testing
 
 Copyright 2020 GIT
+All rights reserved
