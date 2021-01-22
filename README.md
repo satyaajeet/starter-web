@@ -21,6 +21,8 @@ No data at the moment
 * Plan
 * Deploy
 
+doing emergency fix
+
 
 ## Learning git is not tough,  mastering is.
 
